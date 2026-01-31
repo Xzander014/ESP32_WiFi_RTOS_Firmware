@@ -179,5 +179,4 @@ MIT (or update as needed)
 
 ---
 
-This README is **resume-ready** and interviewer-safe.
-If you want, next step is refactoring credentials into NVS and adding a **proper command enum → HTTP mapping**, which would elevate this to “strong embedded systems project” tier.
+

@@ -1,0 +1,2 @@
+Event groups:
+	The number of bits (or flags) stored within an event group is 8 if [configUSE_16_BIT_TICKS](https://freertos.org/Documentation/02-Kernel/03-Supported-devices/02-Customization/#configuse_16_bit_ticks) is set to 1, or 24 if configUSE_16_BIT_TICKS is set to 0. The dependency on configUSE_16_BIT_TICKS results from the data type used for thread local storage in the internal implementation of tasks

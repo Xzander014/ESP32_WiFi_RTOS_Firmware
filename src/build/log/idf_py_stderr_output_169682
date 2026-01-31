@@ -1,0 +1,8 @@
+Command: make -j 18 all
+/home/kartix/Projects/esp/esp-idf/projects/blinky/main/blinky.c:5:10: fatal error: gpio_driver.h: No such file or directory
+    5 | #include "gpio_driver.h"
+      |          ^~~~~~~~~~~~~~~
+compilation terminated.
+make[2]: *** [esp-idf/main/CMakeFiles/__idf_main.dir/build.make:79: esp-idf/main/CMakeFiles/__idf_main.dir/blinky.c.obj] Error 1
+make[1]: *** [CMakeFiles/Makefile2:8651: esp-idf/main/CMakeFiles/__idf_main.dir/all] Error 2
+make: *** [Makefile:136: all] Error 2

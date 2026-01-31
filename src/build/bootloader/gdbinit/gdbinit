@@ -1,0 +1,2 @@
+source /home/kartix/Projects/esp/esp-idf/projects/blinky/build/bootloader/gdbinit/symbols
+source /home/kartix/Projects/esp/esp-idf/projects/blinky/build/bootloader/gdbinit/connect

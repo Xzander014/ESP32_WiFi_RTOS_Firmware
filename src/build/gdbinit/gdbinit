@@ -1,0 +1,2 @@
+source /home/kartix/Projects/esp/esp-idf/projects/blinky/build/gdbinit/symbols
+source /home/kartix/Projects/esp/esp-idf/projects/blinky/build/gdbinit/connect
